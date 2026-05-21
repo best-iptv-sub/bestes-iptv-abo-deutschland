@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestes-iptv-abo-deutschland.github.io/sitemap.xml
